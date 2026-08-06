@@ -10,6 +10,14 @@ Insurance intelligence platform. Core product is a risk intelligence engine: evi
 **Papermill** — [akl773.xyz](https://akl773.xyz)
 Self hosted document to Markdown converter. Supports batch processing, image extraction, and side by side preview.
 
+## What I've Built
+
+**VTClock** — [vishwatrading.com](https://vishwatrading.com)
+Multi-tenant employee management platform. Geofenced attendance, leave workflows, payroll with advance recovery, and printable salary slips. Next.js PWA + Go backend.
+
+**DineQR** — [dineqr.food](https://dineqr.food)
+QR menu and live table ordering for restaurants. Guests scan, order, and pay at the counter. Admin gets menu CRUD, AI menu import, live order board, and sales analytics.
+
 ## What I'm Into
 
 **AI & LLMs**
@@ -34,6 +42,8 @@ FastAPI · Next.js · PostgreSQL · Redis · Docker · MinIO · Docling · Tails
 - Website: [akhilsingh.in](https://akhilsingh.in)
 - Sarvada: [sarvada.ai](https://sarvada.ai)
 - Papermill: [akl773.xyz](https://akl773.xyz)
+- VTClock: [vishwatrading.com](https://vishwatrading.com)
+- DineQR: [dineqr.food](https://dineqr.food)
 - Username: akl773
 
 ---
